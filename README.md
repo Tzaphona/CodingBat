@@ -1,2 +1,2 @@
 # CodingBat
-Solutions of problems from codingbat.com
+Solutions of problems from [codingbat.com](url)
