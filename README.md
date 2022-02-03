@@ -1,2 +1,2 @@
 # CodingBat
-Solutions of problems from [https://codingbat.com/java](url)
+Solutions of problems from [CodingBat.com](https://codingbat.com/java)
